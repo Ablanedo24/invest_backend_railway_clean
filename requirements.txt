@@ -1,8 +1,8 @@
-
 fastapi
 uvicorn
-yfinance
-sqlalchemy
-pydantic
 python-jose
 passlib[bcrypt]
+pydantic
+sqlalchemy
+yfinance
+pandas
